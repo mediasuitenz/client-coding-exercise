@@ -35,7 +35,7 @@ Pre-requisits: Node, npm
 The API can be launched by:
 1. Clone this repo: 
 ```
-$> git clone git@github.com:mediasuitenz/client-coding-exercise.git
+$ git clone git@github.com:mediasuitenz/client-coding-exercise.git
 ```
 2. Move into the directory and install the dependencies:
 ```
